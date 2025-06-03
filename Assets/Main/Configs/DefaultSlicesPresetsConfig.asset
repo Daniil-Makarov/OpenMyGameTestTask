@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3dc4c421468419f99d44eb1e447589d, type: 3}
+  m_Name: DefaultSlicesPresetsConfig
+  m_EditorClassIdentifier: 
+  Presets:
+  - Elements: 36
+    Rows: 6
+    Columns: 6
+  - Elements: 64
+    Rows: 8
+    Columns: 8
+  - Elements: 100
+    Rows: 10
+    Columns: 10
+  - Elements: 144
+    Rows: 12
+    Columns: 12
+  - Elements: 256
+    Rows: 14
+    Columns: 14
+  - Elements: 400
+    Rows: 20
+    Columns: 20
